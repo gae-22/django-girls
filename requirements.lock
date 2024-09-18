@@ -16,3 +16,5 @@ django==5.1.1
     # via djangogirls
 sqlparse==0.5.1
     # via django
+typing-extensions==4.12.2
+    # via asgiref
